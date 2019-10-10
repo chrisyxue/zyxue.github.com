@@ -8,8 +8,11 @@
       <p><b>Member of DIG Lab</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">      
     </td>
   </tr>
 </table>
+
+## Research Interests
+Few-shot learning, Meta Learning, Knowledge Distillation
 
