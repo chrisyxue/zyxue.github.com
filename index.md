@@ -9,13 +9,12 @@
       <p><b>Member of DIG Lab</b></p>
     </td>
     <td width="25%">
-      <img src="/xzy.jpg" width="100%">      
+      <img src="/xzy.png" width="100%">      
     </td>
   </tr>
 </table>
 </div>
 
-![image](/xzy.png)
 ## Research Interests
 Few-shot learning, Meta Learning, Knowledge Distillation
 
