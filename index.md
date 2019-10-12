@@ -14,7 +14,8 @@
   </tr>
 </table>
 </div>
-![avatar](/xzy.png)
+
+![image](/xzy.png)
 ## Research Interests
 Few-shot learning, Meta Learning, Knowledge Distillation
 
