@@ -8,7 +8,7 @@
       <p><b>Member of DIG Lab</b></p>
     </td>
     <td width="25%">
-      <img src="/xzy.jpg" width="120%">      
+      <img src="/xzy.png" width="120%">      
     </td>
   </tr>
 </table>
