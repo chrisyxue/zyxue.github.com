@@ -8,7 +8,7 @@
       <p><b>954285322@qq.com</b></p>
       <p><b>Member of DIG Lab</b></p>
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="./xzy.jpg" width="100%"/>      
     </td>
   </tr>
