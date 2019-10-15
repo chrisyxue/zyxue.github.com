@@ -1,7 +1,7 @@
 <div>
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>ZhiyuXue</h1>
       <p><b>Undergraduate Student</b></p>
       <p><b>University of Electronic Science and Technology of China</b></p>
