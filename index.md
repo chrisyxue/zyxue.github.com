@@ -9,7 +9,7 @@
       <p><b>Member of DIG Lab</b></p>
     </td>
     <td width="25%">
-      <img src="/xzy.jpg" width="90%"/>      
+      <img src="/https://github.com/chrisyxue/zyxue.github.com/blob/master/xzy.png" width="90%"/>      
     </td>
   </tr>
 </table>
