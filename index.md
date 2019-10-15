@@ -15,8 +15,6 @@
 </table>
 </div>
 
-![avatar](/xzy.png)
-
 ## Research Interests
 Few-shot learning, Meta Learning, Knowledge Distillation
 
