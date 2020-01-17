@@ -16,9 +16,13 @@
 </div>
 
 ## Research Interests
-Few-shot learning, Meta Learning, Knowledge Distillation
+Few-shot learning, Meta Learning, Knowledge Distillation, Transfer Learning
 
 ## My Work
 
+
 ## Main Experience
+DIG Lab 2018 - 2020 （）
+Fintell Financial Service Company 2019.7 - 2018.8 （）
+
 
