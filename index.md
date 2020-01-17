@@ -22,7 +22,10 @@ Few-shot learning, Meta Learning, Knowledge Distillation, Transfer Learning
 
 
 ## Main Experience
-DIG Lab 2018 - 2020 （）
-Fintell Financial Service Company 2019.7 - 2018.8 （）
+DIG Lab 2018 - 2020 （https://dig.uestc.cn/）
+
+Fintell Financial Service Company 2019.7 - 2018.8 （http://en.fintell.com.cn/）
+
+
 
 
