@@ -17,16 +17,6 @@
 
 
   
-## Research Interests
-Few-shot learning, Meta Learning, Knowledge Distillation, Transfer Learning
-
-## My Work
-
-
-## Main Experience
-DIG Lab 2018 - 2020 （https://www.baidu.com/link?url=34y5BjMt_xxWZH1NpkDzhjpUW-SMEtaf_4W5mCoNyui&wd=&eqid=dbda264e000fd842000000035e21483d）
-
-Fintell Financial Service Company 2019.7 - 2018.8 （http://www.fintell.com.cn/）
 
 
 
