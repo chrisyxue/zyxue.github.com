@@ -7,7 +7,7 @@
       <p><b>University of Electronic Science and Technology of China</b></p>
       <p><b>xzy990228@gmail.com</b></p>
       <p><b>Member of DIG Lab</b></p>
-      <p><b>My Resume [Here]()</b></p>
+      <p><b>My Resume [Here](https://github.com/chrisyxue/zyxue.github.com/blob/master/%E8%96%9B%E8%87%B3%E5%96%BB-CV.pdf)</b></p>
     </td>
     <td width="50%">
       <img src="./xzy.jpg" width="100%"/>      
