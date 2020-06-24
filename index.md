@@ -7,6 +7,7 @@
       <p><b>University of Electronic Science and Technology of China</b></p>
       <p><b>xzy990228@gmail.com</b></p>
       <p><b>Member of DIG Lab</b></p>
+      <p><b>My Resume [Here]()</b></p>
     </td>
     <td width="50%">
       <img src="./xzy.jpg" width="100%"/>      
