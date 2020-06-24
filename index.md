@@ -18,12 +18,14 @@
 ## Research Interests
 Few-shot learning, Meta Learning, Knowledge Distillation, Transfer Learning
 
-## My Work
+## Publishment
+Relative Position and Map Networks in Few-Shot Learning for Image Classification [pdf](http://openaccess.thecvf.com/content_CVPRW_2020/html/w54/Xue_Relative_Position_and_Map_Networks_in_Few-Shot_Learning_for_Image_CVPRW_2020_paper.html)
+
 
 ## Main Experience
-DIG Lab 2018 - 2020 （https://www.baidu.com/link?url=34y5BjMt_xxWZH1NpkDzhjpUW-SMEtaf_4W5mCoNyui&wd=&eqid=dbda264e000fd842000000035e21483d）
+DIG Lab 2018 - 2020 [Here](https://www.baidu.com/link?url=34y5BjMt_xxWZH1NpkDzhjpUW-SMEtaf_4W5mCoNyui&wd=&eqid=dbda264e000fd842000000035e21483d)
 
-Fintell Financial Service Company 2019.7 - 2018.8 （http://www.fintell.com.cn/）
+Fintell Financial Service Company 2019.7 - 2018.8 [Here](http://www.fintell.com.cn/)
 
 
 
