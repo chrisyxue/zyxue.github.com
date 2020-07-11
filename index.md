@@ -21,7 +21,7 @@ Few-shot learning, Meta Learning, Knowledge Distillation, Transfer Learning
 ## Publishment
 Relative Position and Map Networks in Few-Shot Learning for Image Classification, CVPR 2020 VL3 Workshop, Accepted [pdf](http://openaccess.thecvf.com/content_CVPRW_2020/html/w54/Xue_Relative_Position_and_Map_Networks_in_Few-Shot_Learning_for_Image_CVPRW_2020_paper.html)
 
-Region Comparison Network for Interpretable Few=shot Image Classification, ACM MM 2020, under-review 
+Region Comparison Network for Interpretable Few-shot Image Classification, ACM MM 2020, under-review 
 
 ## Main Experience
 DIG Lab 2018 - 2020 [Here](https://diggers.ai/people/)
