@@ -18,7 +18,7 @@
 ## Research Interests
 Few-shot learning, Meta Learning, Knowledge Distillation, Transfer Learning
 
-## Publishment
+## Publishment [(Google Scholar)](https://scholar.google.com/citations?user=t72rUpAAAAAJ&hl=zh-CN)
 Relative Position and Map Networks in Few-Shot Learning for Image Classification, CVPR 2020 VL3 Workshop, Accepted [PDF](http://openaccess.thecvf.com/content_CVPRW_2020/html/w54/Xue_Relative_Position_and_Map_Networks_in_Few-Shot_Learning_for_Image_CVPRW_2020_paper.html), [Talk](https://github.com/chrisyxue/RMN-RPN-for-FSL/blob/master/37-poster.mp4), [Slide](https://github.com/chrisyxue/RMN-RPN-for-FSL/blob/master/37-slides.pdf)
 
 Region Comparison Network for Interpretable Few-shot Image Classification, ACM MM 2020, under-review 
