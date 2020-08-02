@@ -30,7 +30,7 @@ Fintell Financial Service Company 2019.7 - 2018.8 [Here](http://en.fintell.com.c
 
 ## My Resume 
 Please check my CV [Here](https://github.com/chrisyxue/zyxue.github.com/blob/master/%E8%96%9B%E8%87%B3%E5%96%BB-CV.pdf)
-Please check my slides of self-introduction [Here]()
+Please check my slides of self-introduction [Here](https://github.com/chrisyxue/zyxue.github.com/blob/master/Slides%20of%20Self-introduction.pdf)
 
   
 
