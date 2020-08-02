@@ -26,7 +26,7 @@ Region Comparison Network for Interpretable Few-shot Image Classification, ACM M
 ## Main Experience
 DIG Lab 2018 - 2020 [Here](https://diggers.ai/people/)
 
-Fintell Financial Service Company 2019.7 - 2018.8 [Here](http://en.fintell.com.cn/)
+Fintell Financial Service Company 2019.7 - 2019.8 [Here](http://en.fintell.com.cn/)
 
 ## My Resume 
 Please check my CV [Here](https://github.com/chrisyxue/zyxue.github.com/blob/master/%E8%96%9B%E8%87%B3%E5%96%BB-CV.pdf)
